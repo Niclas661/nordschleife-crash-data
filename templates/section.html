@@ -1,0 +1,22 @@
+<!DOCTYPE HTML>
+<html>
+<head>
+  <title>{{name}} - Nordschleife Crash Data</title>
+  <meta charset="utf-8">
+  <link rel="stylesheet" href="{{ url_for('static', filename='style.css') }}?v=0.0">
+  <style>
+  </style>
+</head>
+<body>
+  {% include 'nav.html' %}
+  {% include 'map.html' %}
+  <div class="infoBox">
+    <h1>{{name}}</h1>
+    <iframe width="560" height="315" src="{{video}}?rel=0&amp;showinfo=0" frameborder="0" allowfullscreen></iframe>
+    {% for lines in description: %}
+      <p>{{lines}}</p>
+    {% endfor %}
+    <h1><a href="{{name}}/add_entry">Submit entry to this section of the track</a></h1>
+  </div>
+</body>
+</html>

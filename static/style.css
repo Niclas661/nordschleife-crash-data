@@ -1,0 +1,95 @@
+body, html {
+  font-family: Tahoma;
+  background-color: black;
+}
+a{
+  color: black;
+}
+a:visited{
+  color: #A00;
+}
+a:hover{
+  color: #F00;
+}
+h1{
+  font-family: Coneria Script Demo;
+}
+nav {
+  text-align: center;
+  background-color: white;
+  overflow: hidden;
+  color: black;
+  margin-bottom: 1vh;
+  padding-left: 5vw;
+  padding-right: 5vw;
+}
+nav > h1{
+  float: left;
+  padding: 5px;
+  display: block;
+
+  -webkit-user-select: none; /* Chrome/Safari */
+  -moz-user-select: none; /* Firefox */
+  -ms-user-select: none; /* IE10+ */
+}
+nav > h1:nth-child(2){
+  font-family: Verdana;
+  font-weight: 100;
+
+  font-variant: small-caps;
+  float: left;
+  padding: 5px;
+}
+nav > h1:nth-child(3){
+  float: right;
+  padding: 5px;
+}
+nav > h1:nth-child(4){
+  float: right;
+  padding: 5px;
+}
+nav > h1:nth-child(5){
+  float:left;
+  padding-left: 10vw;
+}
+.map{
+  text-align: center;
+  background-color: black;
+  clear: both;
+  width: 50vw;
+  float: left;
+  padding: .2vw;
+}
+.infoBox{
+  width: 45vw;
+  min-height: 60vh;
+  float: right;
+  background: #CCC;
+  padding: .5vw;
+  margin-top: -1vh;
+  text-align: center;
+  -webkit-box-shadow: inset 0px 22px 60px 3px rgba(0,0,0,0.35);
+  -moz-box-shadow: inset 0px 22px 60px 3px rgba(0,0,0,0.35);
+  box-shadow: inset 0px 22px 60px 3px rgba(0,0,0,0.35);
+  border-bottom-left-radius: 10px;
+}
+.infoBox p{
+  text-align: left;
+}
+.infoBox h1{
+  text-align: center;
+}
+.map svg {
+  width: 40vw;
+}
+.map path {
+  stroke: white;
+  fill: #000;
+  transition: stroke 0.2s;
+}
+.map path:hover{
+  stroke: red;
+}
+.map path:hover path{
+  stroke-width: 1px;
+}

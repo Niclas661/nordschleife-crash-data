@@ -1,0 +1,62 @@
+{
+  "sections":{
+  	"Fuchsröhre": [
+      "You will get a lot of speed in this area. Don't let the corners make you think differently: following the ideal racing line results in making barely noticeable turns.",
+      "An uphill at the end of this section is however a risk for your car to lose control if you don't let go a little of the gas and start braking."
+    ],
+		"Hohenrain": [
+      "This section is tortuous but after passing it, you will reach the finish line.",
+      "Maintain a good speed. When you reach the last corner, hug the right wall as close as you can.",
+      "This section was added to the circuit to make drivers slow down at the pit lane entry. It also made the track 25m longer."
+    ],
+    "Hatzenbach": [
+      "The first half of this section is consisted of a few but hard corners and a couple straights. The second half is mostly corners which will keep you at a cruising speed.",
+      "Be careful not to go too fast entering the second half, you might end up in the grass!"
+    ],
+    "Flugplatz": [
+      "Cars go flying here if they don't slow down. That's why it's called the Flugplatz."
+    ],
+    "Schwedenkreuz": [
+      "You can gain some real speed before approaching the Schwedenkreuz.",
+      "It's easy here to slid off the road if you approach it too fast. It does look good enough of a curve to not brake, but looks can be deceiving..."
+    ],
+    "Quiddelbacher-Höhe": [
+      "A smooth right turn corner to a straight uphill. You better beware: you're approaching Flugplatz..."
+    ],
+    "Hocheichen": [
+      "This sharp right turn can be tricky to follow the ideal racing line, but a late apex is my recommendation."
+    ],
+    "Aremberg": [
+      "Possibly one of the slower corners on this map: most cars do well in second gear in this corner. Too fast and you'll end up in the sand."
+    ],
+    "Adenauer-Forst": [
+      "Maintain a good speed here, and these corners will be history. But it can be tricky to find the racing line here and find the appropriate speed. Practice makes perfect, right?",
+      "After passing the corners, pedal to the metal and get ready for Metzgesfeld."
+    ],
+    "Metzgesfeld": [
+      "Spectators stand here and take pictures of cars that crash here.",
+      "Get in an appropriate speed, position the car to the right and make a smooth cross over the corner and continue still on the right side.",
+      "Slow down considerably when you're nearing the next left turn corner."
+    ],
+    "Kallenhard": [
+      "The corners are smooth and tilted, but it's easy to underestimate how fast you can go in this section."
+    ],
+    "Wehrseifen": [
+      "Almost a 90-degree corner, you will go real slow in this corner before you can put the pedal to the metal."
+    ]
+  },
+  "videos":{
+    "Fuchsröhre": "https://www.youtube.com/embed/HxroaoD7sPM",
+		"Hohenrain": "https://www.youtube.com/watch?v=NtWycQAE-OU",
+    "Hatzenbach": "https://www.youtube.com/embed/NtWycQAE-OU",
+    "Flugplatz": "https://www.youtube.com/embed/7BpjvpGO08k",
+    "Schwedenkreuz": "https://www.youtube.com/embed/I0LEqXaflgI",
+    "Quiddelbacher-Höhe": "https://www.youtube.com/embed/VO71ju6ebXM",
+    "Hocheichen": "https://www.youtube.com/embed/lz7SrDxqO4Y",
+    "Aremberg": "https://www.youtube.com/embed/qG1kkE5AHW0",
+    "Adenauer-Forst": "addddddd",
+    "Metzgesfeld": "https://www.youtube.com/embed/I8AP4pGtNik",
+    "Kallenhard": "https://www.youtube.com/embed/CnaiXNbIpj4",
+    "Wehrseifen": "https://www.youtube.com/embed/ST1UF5Rimko"
+  }
+}
