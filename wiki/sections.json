@@ -43,6 +43,34 @@
     ],
     "Wehrseifen": [
       "Almost a 90-degree corner, you will go real slow in this corner before you can put the pedal to the metal."
+    ],
+    "Exmühle": [
+      "One of the more trickier corners on this track and requires a good braking distance, even for the best-performing cars.",
+      "Come up too fast and you'll come off the track and hit the wall on the right."
+    ],
+    "Bergwerk": [
+      "Only one somewhat sharp corner, which can be tricky to tell which speed you should be in, in an otherwise relaxing section with small up- and downhills."
+    ],
+    "Kesselchen": [
+      "The first corner can feel unsafe and make you want to brake, but you can do well by simply letting go of the gas for a tenth of a second."
+    ],
+    "Klostertal": [
+      "The second corner of this section is on an uphill which obstructs vision of the road ahead. Let go of the gas here or at least apply minimal brake to maintain control of your car here, as you can go flying if you don't regulate that speed!"
+    ],
+    "Karusell": [
+      "One of the more known corners of this track, which will have you going around a half-circle-shaped angled road."
+    ],
+    "Hohe Acht": [
+      "Smooth corners but keep an eye on your speed: come in too hot and you'll end up in the grass on the right."
+    ],
+    "Wippermann": [
+      "A downhill that will gain you some extra speed. Slow down a bit before the corner and position the car on the left after the corner."
+    ],
+    "Eschbach": [
+      "A somewhat sharp entrance to another downhill very similar to Wippermann."
+    ],
+    "Brünnchen": [
+      "...?"
     ]
   },
   "videos":{
@@ -57,6 +85,15 @@
     "Adenauer-Forst": "addddddd",
     "Metzgesfeld": "https://www.youtube.com/embed/I8AP4pGtNik",
     "Kallenhard": "https://www.youtube.com/embed/CnaiXNbIpj4",
-    "Wehrseifen": "https://www.youtube.com/embed/ST1UF5Rimko"
+    "Wehrseifen": "https://www.youtube.com/embed/ST1UF5Rimko",
+    "Exmühle" : "https://www.youtube.com/embed/Vr1j9-BPD5w",
+    "Bergwerk" : "https://www.youtube.com/embed/fhT0MT1n-Vo",
+    "Kesselchen" : "https://www.youtube.com/embed/dvnkm6dOwCI",
+    "Klostertal" : "https://www.youtube.com/embed/1ZvVeJSVURI",
+    "Karusell" : "https://www.youtube.com/embed/Zuv0sqnkx-s",
+    "Hohe Acht" : "https://www.youtube.com/embed/Hj3d0RcgK7U",
+    "Wippermann" : "https://www.youtube.com/embed/3LoqcgI2FWQ",
+    "Eschbach" : "https://www.youtube.com/embed/1abDuRsBNeI",
+    "Brünnchen" : "https://www.youtube.com/embed/cU1eaigg4d4"
   }
 }
